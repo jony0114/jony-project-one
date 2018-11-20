@@ -1,0 +1,58 @@
+.sky-carousel {
+	height:150px;
+	position: relative;	
+	overflow: hidden;
+	margin: 0 auto;	
+}
+.sky-carousel1 {
+	height:275px;
+}
+
+.sky-carousel .sky-carousel-container {
+	position: relative;
+	list-style-type: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+/**********************************************
+*
+* 3. Carousel Item Styles
+*
+**********************************************/
+.sky-carousel .sky-carousel-container li {
+	position: absolute;
+	border: 0;
+}
+
+.sky-carousel .sky-carousel-container li img {
+	display: block;
+	border: 0;
+}
+
+.sky-carousel .sky-carousel-container li a img {
+	border: none;
+}
+
+/**********************************************
+*
+* 5. Gradient Overlay Styles
+*
+**********************************************/
+.sky-carousel .sc-overlay {
+	position: absolute;
+	height: 100%;
+	z-index: 4998;
+	pointer-events: none;
+	top: 0;
+}
+
+.sky-carousel .sc-overlay-left {
+	left: -0.1px;
+}
+
+.sky-carousel .sc-overlay-right {
+	right: -0.1px;
+}
+

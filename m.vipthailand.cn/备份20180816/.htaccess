@@ -1,0 +1,10 @@
+# Helicon ISAPI_Rewrite configuration file
+# Version 3.1.0.73
+
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^(.*)/search(.*).html(.*) /$1/index.php\?str=$2
+RewriteRule ^(.*)/view([0-9]*).html(.*) /$1/view.php\?id=$2
+RewriteRule ^(.*)/(.*)list(.*).html(.*) /$1/$2list.php\?str=$3
+RewriteRule ^(.*)/(.*)view(.*).html(.*) /$1/$2view.php\?id=$3

@@ -1,0 +1,57 @@
+/*四列A*/
+.qjlistcap{float:left;border:#CACACA solid 1px;border-left:0;margin:10px 10px 0 10px;height:38px;width:1019px;background-color:#E8E8E8;font-weight:700;}
+.qjlistcap li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:28px;}
+.qjlistcap .l1{width:27px;height:26px;text-align:left;padding:12px 0 0 8px;}
+.qjlistcap .l1 input{float:left;width:16px;height:16px;}
+.qjlistcap .l2{width:369px;text-align:left;padding-left:10px;}
+.qjlistcap .l3{width:120px;}
+.qjlistcap .l4{width:280px;}
+.qjlistcap .l5{width:190px;text-align:right;padding-right:10px;}
+.qjlist1{float:left;border:#CACACA solid 1px;border-left:0;border-top:0;margin:0 10px;height:38px;width:1019px;background-color:#F4F4F4;}
+.qjlist1 li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:28px;}
+.qjlist1 .l1{width:27px;height:26px;text-align:left;padding:12px 0 0 8px;background-color:#F1F1F1;}
+.qjlist1 .l1 input{float:left;width:16px;height:16px;}
+.qjlist1 .l2{width:369px;text-align:left;padding-left:10px;font-size:14px;}
+.qjlist1 .l3{width:120px;}
+.qjlist1 .l4{width:280px;}
+.qjlist1 .l5{width:200px;}
+.qjlist1 .l5 a{float:right;margin-right:10px;}
+.qjlist1 .l5 a:hover{color:#ff6600;text-decoration:underline;}
+.qjlist1 .l5 span{float:right;height:11px;border-left:#cacaca solid 1px;margin:3px 10px 0 0;}
+.qjlist1:hover{background:rgba(235,235,235,1);-webkit-transition:background-color 0.3s linear;-moz-transition:background-color 0.3s linear;-o-transition:background-color 0.3s linear;transition:background-color 0.3s linear;}
+.qjlist2{float:left;border:#CACACA solid 1px;border-left:0;border-top:0;margin:0 10px;height:37px;width:1019px;background-color:#fff;}
+.qjlist2 li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:27px;}
+.qjlist2 .l1{width:27px;height:25px;text-align:left;padding:12px 0 0 8px;background-color:#F1F1F1;}
+.qjlist2 .l1 input{float:left;width:16px;height:16px;}
+.qjlist2 .l2{width:369px;text-align:left;padding-left:10px;}
+.qjlist2 .l3{width:120px;}
+.qjlist2 .l4{width:280px;}
+.qjlist2 .l5{width:200px;}
+.qjlist2 .l5 a{float:right;margin-right:10px;}
+.qjlist2 .l5 a:hover{color:#ff6600;text-decoration:underline;}
+.qjlist2 .l5 span{float:right;height:11px;border-left:#cacaca solid 1px;margin:3px 10px 0 0;}
+.qjlist2:hover{background:rgba(249,249,249,1);-webkit-transition:background-color 0.3s linear;-moz-transition:background-color 0.3s linear;-o-transition:background-color 0.3s linear;transition:background-color 0.3s linear;}
+
+/*物类类型*/
+.wylxlistcap{float:left;border:#CACACA solid 1px;border-left:0;margin:10px 10px 0 10px;height:38px;width:1019px;background-color:#E8E8E8;font-weight:700;}
+.wylxlistcap li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:28px;}
+.wylxlistcap .l1{width:27px;height:26px;text-align:left;padding:12px 0 0 8px;}
+.wylxlistcap .l1 input{float:left;width:16px;height:16px;}
+.wylxlistcap .l2{width:280px;text-align:left;padding-left:10px;}
+.wylxlistcap .l3{width:278px;text-align:left;padding-left:10px;}
+.wylxlistcap .l4{width:150px;}
+.wylxlistcap .l5{width:150px;}
+.wylxlistcap .l6{width:90px;text-align:right;padding-right:10px;}
+.wylxlist{float:left;border:#CACACA solid 1px;border-left:0;border-top:0;margin:0 10px;height:37px;width:1019px;background-color:#fff;}
+.wylxlist li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:27px;}
+.wylxlist .l1{width:27px;height:25px;text-align:left;padding:12px 0 0 8px;background-color:#F1F1F1;}
+.wylxlist .l1 input{float:left;width:16px;height:16px;}
+.wylxlist .l2{width:280px;text-align:left;padding-left:10px;}
+.wylxlist .l3{width:278px;text-align:left;padding-left:10px;}
+.wylxlist .l4{width:150px;}
+.wylxlist .l5{width:150px;}
+.wylxlist .l6{width:100px;}
+.wylxlist .l6 a{float:right;margin-right:10px;}
+.wylxlist .l6 a:hover{color:#ff6600;text-decoration:underline;}
+.wylxlist .l6 span{float:right;height:11px;border-left:#cacaca solid 1px;margin:3px 10px 0 0;}
+.wylxlist:hover{background:rgba(249,249,249,1);-webkit-transition:background-color 0.3s linear;-moz-transition:background-color 0.3s linear;-o-transition:background-color 0.3s linear;transition:background-color 0.3s linear;}

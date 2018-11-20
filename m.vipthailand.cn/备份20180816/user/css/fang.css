@@ -1,0 +1,19 @@
+.fanggjcap{float:left;border:#E1E1E2 solid 1px;width:966px;margin:10px 10px 0 10px;height:40px;text-align:center;background-color:#F5F5F5;}
+.fanggjcap li{float:left;border-right:#e1e1e2 solid 1px;padding:12px 0 0 0;height:28px;}
+.fanggjcap .l1{width:30px;padding-top:13px;height:27px;}
+.fanggjcap .l2{width:522px;text-align:left;padding-left:10px;}
+.fanggjcap .l3{width:120px;}
+.fanggjcap .l4{width:180px;}
+.fanggjcap .l5{width:100px;border-right:0;}
+.fanggjlist{float:left;border:#E1E1E2 solid 1px;width:966px;margin:0 10px 0 10px;height:32px;border-top:0;text-align:center;}
+.fanggjlist li{float:left;border-right:#e1e1e2 solid 1px;padding:8px 0 0 0;height:24px;}
+.fanggjlist .l1{width:30px;}
+.fanggjlist .l2{width:522px;text-align:left;padding-left:10px;cursor:pointer;}
+.fanggjlist .l3{width:120px;}
+.fanggjlist .l4{width:180px;}
+.fanggjlist .l5{width:100px;border-right:0;padding-top:6px;height:26px;}
+.fanggjlist .l5 .s1{float:left;width:69px;border:#E6E6E6 solid 1px;padding:1px 0 0 9px;height:18px;margin:0 0 0 10px;text-align:left;background:url(../img/jian.gif) no-repeat;background-position:65px 8px;background-color:#fff;}
+.fanggjlist .l5 .gl{float:left;width:78px;border:#e6e6e6 solid 1px;border-top:0;margin:0 0 0 10px;position:relative;background-color:#fff;text-align:left;}
+.fanggjlist .l5 .gl a{float:left;width:69px;padding:3px 0 0 9px;height:18px;}
+.fanggjlist .l5 .gl a:hover{text-decoration:none;background-color:#f2f2f2;}
+.fanggjlist:hover{background:rgba(252,253,254,1);-webkit-transition:background-color 0.3s linear;-moz-transition:background-color 0.3s linear;-o-transition:background-color 0.3s linear;transition:background-color 0.3s linear;}

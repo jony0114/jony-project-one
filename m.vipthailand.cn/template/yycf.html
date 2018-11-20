@@ -1,0 +1,50 @@
+<html>  
+<head>  
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">  
+<title>房产网预约刷新触发器</title>  
+</head>  
+<body onLoad="">  
+<div id="theClock"></div>  
+<script type="text/javascript">  
+var sjcha=30;
+var sz;
+var xmlHttp = false;
+try {
+  xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+} catch (e) {
+  try {
+    xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+  } catch (e2) {
+    xmlHttp = false;
+  }
+}
+if (!xmlHttp && typeof XMLHttpRequest != 'undefined') {
+  xmlHttp = new XMLHttpRequest();
+}
+
+function updatePage() {
+ if (xmlHttp.readyState == 4) {
+	 sjcha=30;
+	 sz=setInterval("sjzou()",1000);
+ }
+}
+
+function yycf(){
+var url = "yycf.php";
+xmlHttp.open("get", url, true);
+xmlHttp.onreadystatechange = updatePage;
+xmlHttp.send(null);
+}
+
+function sjzou(){
+ if(sjcha<=0){
+  clearInterval(sz);
+  yycf();
+  return false;
+ }else{sjcha=sjcha-1;document.getElementById("htmlzou").innerHTML=sjcha+"秒后开始新一轮触发";}
+}
+sz=setInterval("sjzou()",1000);
+</script>  
+<div id="htmlzou"></div>
+</body>  
+</html> 

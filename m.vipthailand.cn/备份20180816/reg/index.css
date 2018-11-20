@@ -1,0 +1,111 @@
+/*注册*/
+.bfbreg{background-color:#EFEFEF;text-align:left;}
+.bfbreg .reg{float:left;width:1196px;border:#D7D7D7 solid 2px;background-color:#fff;margin:30px 0;}
+.bfbreg .reg .regleft{float:left;width:825px;margin:50px 0 50px 100px;border-right:#d7d7d7 solid 1px;}
+.bfbreg .reg .regleft .u1{float:left;width:825px;}
+.bfbreg .reg .regleft .u1 li{float:left;}
+.bfbreg .reg .regleft .u1 .l1{font-size:14px;width:113px;padding:9px 17px 0 0;height:62px;text-align:right;}
+.bfbreg .reg .regleft .u1 .l1 span{color:red;}
+.bfbreg .reg .regleft .u1 .l2{width:695px;height:71px;color:#999;}
+.bfbreg .reg .regleft .u1 .l2 .inp1{float:left;border:#CCCCCC solid 1px;width:260px;font-weight:700;font-size:14px;padding:12px 0 0 5px;height:26px;}
+.bfbreg .reg .regleft .u1 .l2 .inp2{float:left;border:#CCCCCC solid 1px;width:130px;font-weight:700;font-size:14px;padding:12px 0 0 5px;height:26px;}
+.bfbreg .reg .regleft .u1 .l2 .s1{float:left;margin:10px 0 0 10px;width:20px;}
+.bfbreg .reg .regleft .u1 .l2 .s2{float:left;margin:9px 0 0 5px;width:380px;font-size:14px;}
+.bfbreg .reg .regleft .u1 .l2 .img1{cursor:pointer;float:left;margin:0 0 0 10px;}
+.bfbreg .reg .regleft .u1 .l2 .a1{float:left;color:#000;border:#CCCCCC solid 1px;height:27px;padding:9px 0 0 0;width:118px;margin:0 0 0 10px;
+text-align:center;background-color:#F4F4F4;}
+.bfbreg .reg .regleft .u1 .l2 .a1:hover{text-decoration:none;}
+.bfbreg .reg .regleft .u1 .l3{padding:0 0 0 130px;height:60px;width:695px;}
+.bfbreg .reg .regleft .u1 .l3 input{float:left;border:0;color:#fff;font-size:16px;cursor:pointer;background-color:#CC0000;width:250px;height:44px;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.bfbreg .reg .regleft .u1 .l2 .inp1{padding:0 0 0 5px;height:38px;}
+.bfbreg .reg .regleft .u1 .l2 .inp2{padding:0 0 0 5px;height:38px;}
+}
+.bfbreg .reg .regright{float:right;width:220px;padding:50px 0 0 50px;}
+.bfbreg .reg .regright .u1{float:left;color:#999;width:220px;}
+.bfbreg .reg .regright .u1 li{float:left;}
+.bfbreg .reg .regright .u1 .l1{width:220px;height:28px;}
+.bfbreg .reg .regright .u1 .l2{width:220px;height:65px;}
+.bfbreg .reg .regright .u1 .l2 a{float:left;color:#fff;font-size:14px;background-color:#4FC0E8;width:165px;padding:8px 0 0 0;height:27px;text-align:center;border-radius:5px;}
+.bfbreg .reg .regright .u1 .l2 a:hover{text-decoration:none;}
+.bfbreg .reg .regright .u1 .l3{width:220px;height:22px;}
+.bfbreg .reg .regright .u1 .l4{width:220px;}
+.bfbreg .reg .regright .u1 .l4 a{float:left;color:#999;padding:4px 0 0 20px;width:60px;height:20px;}
+.bfbreg .reg .regright .u1 .l4 a:hover{color:#ff6600;text-decoration:none;}
+.bfbreg .reg .regright .u1 .l4 .a1{background:url(../img/qqsmall.png) left center no-repeat;}
+.bfbreg .reg .regright .u1 .l4 .a2{background:url(../img/wxsmall.gif) left center no-repeat;}
+
+.yjcode .login{float:right;width:360px;margin-top:40px;text-align:left;}
+.yjcode .login .ucap{float:left;width:359px;border-top:#DDDDDD solid 1px;border-left:#DDDDDD solid 1px;position:relative;z-index:2;}
+.yjcode .login .ucap li{float:left;border-right:#ddd solid 1px;text-align:center;padding:12px 0 0 0;height:33px;font-size:16px;cursor:pointer;}
+.yjcode .login .ucap .l1{width:180px;background-color:#FCFCFC;border-bottom:#FCFCFC solid 1px;}
+.yjcode .login .ucap .l0{width:177px;background-color:#EBEBEB;border-bottom:#ddd solid 1px;}
+.yjcode .login .ucap1 .l1{width:119px;}
+.yjcode .login .ucap1 .l0{width:118px;}
+.yjcode .login .u1{float:left;width:358px;border:#DDDDDD solid 1px;border-top:0;background-color:#FCFCFC;padding:25px 0 25px 0;}
+.yjcode .login .u1 li{float:left;}
+.yjcode .login .u1 .l2{width:80px;height:40px;padding:11px 0 0 0;text-align:right;}
+.yjcode .login .u1 .l3{width:278px;height:51px;}
+.yjcode .login .u1 .l3 input{float:left;width:230px;height:34px;border:#C0C0C0 solid 1px;}
+.yjcode .login .u1 .l4{width:105px;padding:0 0 0 80px;}
+.yjcode .login .u1 .l4 input{float:left;width:92px;height:36px;color:#fff;cursor:pointer;font-size:18px;background-color:#0683DB;border:0;-webkit-border-radius:5px;}
+.yjcode .login .u1 .l5{width:173px;padding:12px 0 0 0;height:24px;}
+.yjcode .login .u1 .l6{margin:20px 0 0 20px;width:258px;border-top:#DDDDDD solid 1px;padding:20px 0 0 60px;}
+.yjcode .login .u1 .l7{padding:15px 0 0 80px;}
+.yjcode .login .u1 .l7 a{float:left;border:#B7B7B7 solid 1px;width:84px;height:23px;padding:11px 0 0 0;text-align:center;background:url(../img/bgcap1.gif) left top repeat-x;-webkit-border-radius:5px;}
+.yjcode .login .u1 .l7 a:hover{text-decoration:none;}
+.yjcode .login .u1 .l8{width:278px;height:31px;padding:0 0 0 80px;}
+.yjcode .login .u1 .l9{width:278px;height:41px;padding:0 0 0 80px;}
+.yjcode .login .u1 .l9 a{float:left;width:100px;border-radius:5px;color:#FF6666;border:#FF6666 solid 1px;text-align:center;padding:5px 0 5px 0;}
+.yjcode .login .u1 .l9 a:hover{text-decoration:none;}
+.yjcode .login .u1 .l10{width:278px;height:41px;padding:0 0 0 80px;}
+.yjcode .login .u1 .l10 a{float:left;width:200px;border-radius:5px;color:#666;background-color:#E3E7ED;text-align:center;padding:5px 0 5px 0;}
+.yjcode .login .u1 .l10 a:hover{text-decoration:none;}
+.yjcode .login #wxlogin{float:left;width:329px;border:#ddd solid 1px;border-top:0;margin-top:-40px;padding-left:29px;position:relative;z-index:1;background-color:#FCFCFC;}
+
+.bfb1{height:484px;background:url(img/loginbg.jpg) center top no-repeat;}
+
+
+.yjcode .getpassword{float:left;width:1198px;background:url(../img/bgcap1.gif) left top repeat-x;height:34px;margin:10px 0 0 0;border:#ccc solid 1px;}
+.yjcode .getpassword .u1{float:left;width:1198px;height:30px;}
+.yjcode .getpassword .u1 li{float:left;}
+.yjcode .getpassword .u1 .l1{font-size:14px;font-weight:700;text-align:left;padding:10px 0 0 10px;width:672px;}
+.yjcode .getpassword .u1 .l2{padding:11px 10px 0 0;text-align:right;width:500px;}
+.yjcode .getpassword .u1 .l2 strong{font-size:14px;color:#ff6600;}
+.yjcode .getpwdty{float:left;width:1198px;border:#DDDDDD solid 1px;border-top:0;padding:15px 0;min-height:150px;}
+.yjcode .getpwdty .u1{float:left;width:860px;margin:50px 0 0 0;text-align:left;padding:0 0 0 339px;}
+.yjcode .getpwdty .u1 li{float:left;font-weight:700;font-size:20px;width:270px;padding:13px 0 0 0;height:37px;}
+.yjcode .getpwdty .u1 li a:hover{color:#ff6600;text-decoration:none;}
+.yjcode .getpwdty .u1 .l1{padding-left:60px;background:url(../img/getp1.gif) left center no-repeat;}
+.yjcode .getpwdty .u1 .l2{padding-left:60px;background:url(../img/getp2.gif) left center no-repeat;width:130px;}
+.yjcode .getpwdmain{float:left;width:1198px;border:#DDDDDD solid 1px;border-top:0;padding:15px 0;}
+.yjcode .getpwdmain .sucts{float:left;width:1116px;margin:15px 0 0 30px;background-color:#FEFEEF;border:#666666 solid 1px;padding:9px 10px 5px 10px;line-height:25px;text-align:center;}
+.yjcode .getpwdmain .u1{float:left;width:1198px;font-family:Arial, Helvetica, sans-serif;margin:1px 0 0 0;}
+.yjcode .getpwdmain .u1 li{float:left;}
+.yjcode .getpwdmain .u1 .l1{text-align:right;width:380px;font-size:14px;padding:19px 0 0 0;height:31px;}
+.yjcode .getpwdmain .u1 .l21{width:818px;text-align:left;padding:19px 0 0 0;height:31px;}
+.yjcode .getpwdmain .u1 .l2{width:220px;text-align:left;padding:10px 0 0 0;height:40px;}
+.yjcode .getpwdmain .u1 .l2 .btn1{cursor:pointer;float:left;border:0;font-weight:700;color:#fff;background:url(../img/btn4.gif) left top no-repeat;width:152px;height:42px;margin-right:10px;}
+.yjcode .getpwdmain .u1 .l2 .btn2{cursor:pointer;float:left;border:0;font-weight:700;color:#fff;background:url(../img/btn4-1.gif) left top no-repeat;width:152px;height:42px;margin-right:10px;}
+.yjcode .getpwdmain .u1 .l3{width:498px;text-align:left;padding:19px 0 0 0;color:#CCCCCC;height:31px;}
+.yjcode .getpwdmain .u1 .l4{width:110px;text-align:left;padding:10px 0 0 0;height:40px;}
+.yjcode .getpwdmain .u1 .l5{width:110px;text-align:left;padding:12px 0 0 0;height:38px;}
+.yjcode .getpwdmain .u1 .l6{padding:10px 0 0 380px;width:818px;}
+.yjcode .getpwdmain .u1 .l6 a{float:left;width:122px;height:50px;font-size:18px;padding:12px 0 0 0;height:38px;text-align:center;background:url(../img/getp3.gif) left top no-repeat;}
+.yjcode .getpwdmain .u1 .l6 a:hover{text-decoration:none;background:url(../img/getp4.gif) left top no-repeat;}
+.yjcode .getpwdmain .inp{float:left;background:url(../img/inputbg.gif) left top repeat-x;height:22px;border:#CCCCCC solid 1px;padding:6px 0 0 4px;font-size:14px;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.yjcode .getpwdmain .inp{height:28px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+

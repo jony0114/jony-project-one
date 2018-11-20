@@ -1,0 +1,15 @@
+
+<?
+$pageall=$page_count;
+?>
+<?
+if($page_count>1){
+?>
+<div id="page1">
+<ul>
+<li class="oprev"><a href="<?=$nowurl?>?<?=$nowwd?>&page=<?=$page-1?>">上一页</a></li>
+<li class="ohave"><?=$page?></li>
+<li class="onext"><a href="<?=$nowurl?>?<?=$nowwd?>&page=<?=$page+1?>">下一页</a></li>
+</ul>
+</div>
+<?}?>

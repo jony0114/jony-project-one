@@ -1,0 +1,43 @@
+.fanglistcap{float:left;border:#CACACA solid 1px;border-left:0;margin:10px 10px 0 10px;height:38px;width:1019px;background-color:#E8E8E8;font-weight:700;}
+.fanglistcap li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:28px;}
+.fanglistcap .l1{width:27px;height:26px;text-align:left;padding:12px 0 0 8px;}
+.fanglistcap .l1 input{float:left;width:16px;height:16px;}
+.fanglistcap .l2{width:412px;text-align:left;padding-left:10px;}
+.fanglistcap .l3{width:108px;padding-left:10px;}
+.fanglistcap .l4{width:100px;}
+.fanglistcap .l5{width:198px;}
+.fanglistcap .l6{width:130px;text-align:right;padding-right:10px;}
+.fanglist{float:left;border:#CACACA solid 1px;border-left:0;border-top:0;margin:0 10px;height:80px;width:1019px;background-color:#fff;}
+.fanglist li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:70px;}
+.fanglist .l1{width:27px;height:68px;text-align:left;padding:12px 0 0 8px;background-color:#F1F1F1;}
+.fanglist .l1 input{float:left;width:16px;height:16px;}
+.fanglist .l2{width:412px;text-align:left;padding-left:10px;line-height:18px;}
+.fanglist .l2 img{margin:0 10px 0 0;}
+.fanglist .l3{width:108px;padding-left:10px;}
+.fanglist .l4{width:100px;}
+.fanglist .l5{width:198px;}
+.fanglist .l6{width:140px;}
+.fanglist .l6 a{float:right;margin-right:10px;}
+.fanglist .l6 a:hover{color:#ff6600;text-decoration:underline;}
+.fanglist .l6 span{float:right;height:11px;border-left:#cacaca solid 1px;margin:3px 10px 0 0;}
+.fanglist:hover{background:rgba(249,249,249,1);-webkit-transition:background-color 0.3s linear;-moz-transition:background-color 0.3s linear;-o-transition:background-color 0.3s linear;transition:background-color 0.3s linear;}
+
+/*委托、看房预约*/
+.wtcap{float:left;border:#CACACA solid 1px;border-left:0;margin:10px 10px 0 10px;height:38px;width:1019px;background-color:#E8E8E8;font-weight:700;}
+.wtcap li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:28px;}
+.wtcap .l1{width:27px;height:26px;text-align:left;padding:12px 0 0 8px;}
+.wtcap .l1 input{float:left;width:16px;height:16px;}
+.wtcap .l2{width:412px;text-align:left;padding-left:10px;}
+.wtcap .l3{width:108px;padding-left:10px;}
+.wtcap .l4{width:100px;}
+.wtcap .l5{width:198px;}
+.wtcap .l6{width:140px;}
+.wtlist{float:left;border:#CACACA solid 1px;border-left:0;border-top:0;margin:0 10px;height:37px;width:1019px;background-color:#fff;}
+.wtlist li{float:left;padding-top:10px;border-left:#CACACA solid 1px;height:27px;}
+.wtlist .l1{width:27px;height:25px;text-align:left;padding:12px 0 0 8px;background-color:#F1F1F1;}
+.wtlist .l1 input{float:left;width:16px;height:16px;}
+.wtlist .l2{width:412px;text-align:left;padding-left:10px;}
+.wtlist .l3{width:108px;padding-left:10px;}
+.wtlist .l4{width:100px;}
+.wtlist .l5{width:198px;}
+.wtlist .l6{width:140px;}
